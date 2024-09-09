@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lim Tze You</h1>
+<h1 align="center">Hi 👋, I'm VDD</h1>
 <h3 align="center">A backend developer from Malaysia</h3>
 
 - 🔭 I’m currently working on **Mingle**
